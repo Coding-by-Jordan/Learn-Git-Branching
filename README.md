@@ -8,3 +8,12 @@
 - In part three I learned how to cherry-pick commits that copies to the main as well as shuffle them around with rebase and copy them to the main.
 
 
+
+
+
+## Day 4 (Git Rebase)
+I learned about `git rebase` which is a way to integrate changes from one branch into another without creating an unnecessary merge commit. It's like merging, but instead of making a merge commit.
+
+![alt text](image.png)
+I made a change to my main branch and created a new branch called "feature-branch."
+
