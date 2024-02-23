@@ -17,3 +17,6 @@ I learned about `git rebase` which is a way to integrate changes from one branch
 ![alt text](image.png)
 I made a change to my main branch and created a new branch called "feature-branch."
 
+![alt text](image-1.png)
+
+I stashed the changes for the new branch. The p tag dissapeared in the new branch.  I then rebased the main branch to the new branchm and there was no errors in the terminal. 
