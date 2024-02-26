@@ -51,3 +51,7 @@ Here is a screenshot of my organization page:
 
 Then I go to the setting under a repository and scroll down to the "Danger Zone." From there I can switch the repository to be under my profile to my new organization.
 
+Here is a screenshot of the repository in my new organization.
+![image](https://github.com/Coding-by-Jordan/Learn-Git-Branching/assets/146011829/f1036571-7b8e-480b-8e6c-0ff98c221b38)
+
+
